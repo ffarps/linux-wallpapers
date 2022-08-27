@@ -1,4 +1,4 @@
-I do not own the art the artists are credited on the readme, only for personal use
+I do not own the art only for personal use
 
 # Killua Zoldyck minimalist Pop OS wallpapers
 
