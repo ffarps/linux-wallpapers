@@ -10,3 +10,5 @@ I do not own the art only for personal use
 
 
 ## for user u/IzMikez heres some nagatoro San from Don't Toy with Me, Miss Nagatoro anime, happy cake day! source: https://www.deviantart.com/klikster/art/Nagatoro-Hayase-Ijiranaide-Nagatoro-san-879119718
+
+## for user u/BansaidnesUwU some kurapika https://i.pinimg.com/originals/97/90/6d/97906dac678dc8bf11805e56216f5594.png
