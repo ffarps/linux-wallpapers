@@ -1,6 +1,7 @@
 I do not own the art only for personal use
 
 # Killua Zoldyck minimalist Pop OS wallpapers
+ <a href="" target="_blank"><img src="https://img.shields.io/github/stars/ffarps/popos-killua.svg" target="_blank"></a>
 
 ### killua art by https://www.deviantart.com/llchoco
 ### pop os logo art by https://wallhere.com/en/wallpaper/2023879
