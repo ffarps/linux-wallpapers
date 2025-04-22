@@ -1,14 +1,13 @@
-I do not own the art only for personal use
+#  Minimalist Pop OS wallpapers
 
-# Killua Zoldyck minimalist Pop OS wallpapers
- <a href="" target="_blank"><img src="https://img.shields.io/github/stars/ffarps/popos-killua.svg" target="_blank"></a>
+> Wallpapers made in GIMP!
 
-### killua art by https://www.deviantart.com/llchoco
-### pop os logo art by https://wallhere.com/en/wallpaper/2023879
+## Acknowledgements 
 
-#### wallpapers made in gimp!
+Killua Zoldyck by https://www.deviantart.com/llchoco
 
+pop os logo by https://wallhere.com/en/wallpaper/2023879
 
-## for user u/IzMikez heres some nagatoro San from Don't Toy with Me, Miss Nagatoro anime, happy cake day! source: https://www.deviantart.com/klikster/art/Nagatoro-Hayase-Ijiranaide-Nagatoro-san-879119718
+nagatoro by https://www.deviantart.com/klikster/art/Nagatoro-Hayase-Ijiranaide-Nagatoro-san-879119718
 
-## for user u/BansaidnesUwU some kurapika https://i.pinimg.com/originals/97/90/6d/97906dac678dc8bf11805e56216f5594.png
+kurapika by https://i.pinimg.com/originals/97/90/6d/97906dac678dc8bf11805e56216f5594.png
