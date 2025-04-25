@@ -1,4 +1,6 @@
-#  Minimalist Pop OS wallpapers
+Started as minimalist Pop OS wallpapers
+
+then as a repo for linux wallpapers
 
 > Wallpapers made in GIMP!
 
